@@ -1,4 +1,4 @@
-- See https://github.com/boto/boto3/issues/2310
+- See this issue: https://github.com/boto/boto3/issues/2310#issuecomment-592719545
 - Two options:
   - calling the `client` constructor
     - use the `verify` keyword argument, passing a path to the zscaler certificate bundle
