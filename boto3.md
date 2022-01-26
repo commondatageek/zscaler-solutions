@@ -1,0 +1,7 @@
+- See https://github.com/boto/boto3/issues/2310
+- Two options:
+  - calling the `client` constructor
+    - use the `verify` keyword argument, passing a path to the zscaler certificate bundle
+  - environment variables, pass a path to the zscaler certificate bundle
+    - CA_BUNDLE
+    - AWS_CA_BUNDLE
