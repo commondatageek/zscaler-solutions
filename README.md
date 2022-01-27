@@ -6,6 +6,11 @@ Here are some ideas for making things work with Zscaler again.
 
 Work in progress.
 
+## Stuff that you'll need
+
+- a single certificate for zscaler
+- an entire certificate bundle for zscaler
+
 
 ## Broken Things
 
