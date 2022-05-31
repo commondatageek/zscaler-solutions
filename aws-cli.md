@@ -16,3 +16,7 @@ Not sure if it matters, but this assumes that you installed AWS CLI tool using t
 - `pip`
 - `brew`
 - or anything else
+
+# Environment Variable
+
+Apparently there is a `AWS_CA_BUNDLE` env var that will work here as well.  Set it to the path fo your zscaler-bundle.pem file.
